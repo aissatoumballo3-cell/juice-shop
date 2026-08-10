@@ -244,3 +244,7 @@ OWASP Juice Shop and any contributions are Copyright © by Bjoern Kimminich & th
 2014-2026.
 
 ![Juice Shop Logo](https://raw.githubusercontent.com/juice-shop/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_400px.png)
+
+## TP Jenkins
+
+Projet intégré dans Jenkins pour réaliser une analyse de sécurité automatisée.
